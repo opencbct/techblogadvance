@@ -1,7 +1,7 @@
 {
   "name": "tech-blog",
   "version": "1.0.0",
-  "description": "a tech blog!",
+  "description": "techblogadvance",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/opencbct/tech-blog.git"
+    "url": "git+https://github.com/opencbct/techblogadvance.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/opencbct/tech-blog/issues"
+    "url": "https://github.com/opencbct/techblogadvance/issues"
   },
-  "homepage": "https://github.com/opencbct/tech-blog#readme",
+  "homepage": "https://github.com/opencbct/techblogadvance#readme",
   "dependencies": {
     "bcrypt": "^5.0.1",
     "bulma": "^0.9.3",
